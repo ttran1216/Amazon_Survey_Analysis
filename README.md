@@ -11,12 +11,7 @@ With the growing e-commerce industry, understanding consumer behavior on Amazon 
 - How does income level impact online shopping behavior?
 
 ## 🔍 Summary of Findings
-- **Highest Spending States**: California, Texas, and Florida lead in total Amazon spending.
-- **Life Changes & Shopping Habits**: Individuals experiencing major life changes, such as job loss or moving, exhibit variations in shopping behavior.
-- **Income & Shopping Frequency**: High-income individuals tend to shop more frequently, while lower-income groups are more budget-conscious.
-- **Most Purchased Categories**: Books, pet food, and gift cards are among the most frequently bought items.
-
-## Data Sources
+[Total Spending by State](https://github.com/ttran1216/Amazon_Survey_Analysis/blob/main/image/Total%20Spending%20by%20State.png)## Data Sources
 The dataset consists of the following files:
 - **amazon-purchases.csv** – Detailed purchase history of users, including order date, product category, price, and quantity.
 - **survey.csv** – Demographic and behavioral data collected from survey responses.
