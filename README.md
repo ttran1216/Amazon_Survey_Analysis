@@ -64,7 +64,11 @@ With the growing e-commerce industry, understanding consumer behavior on Amazon 
 
 This summary provides a concise interpretation of the dataset, highlighting key trends in Amazon shopping behavior based on demographic factors and life changes.
 
+## Code
 
+This repository contains one Malloy code file:
+
+- [`amazon_transaction.malloynb`](amazon_transaction.malloynb), performs the analysis on Amazon purchase data, exploring spending patterns, shopping frequency, and the impact of major life changes on consumer behavior.
 
 ## Data Sources
 The dataset consists of the following files:
