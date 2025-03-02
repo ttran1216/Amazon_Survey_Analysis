@@ -11,7 +11,6 @@ With the growing e-commerce industry, understanding consumer behavior on Amazon 
 - How does income level impact online shopping behavior?
 
 ## 🔍 Summary of Findings
-## Summary of Findings
 
 ### 1. Shopping Frequency by Age Group
 <p align="center">
