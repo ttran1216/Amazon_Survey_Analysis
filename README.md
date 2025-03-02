@@ -11,7 +11,15 @@ With the growing e-commerce industry, understanding consumer behavior on Amazon 
 - How does income level impact online shopping behavior?
 
 ## 🔍 Summary of Findings
-[Total Spending by State](https://github.com/ttran1216/Amazon_Survey_Analysis/blob/main/image/Total%20Spending%20by%20State.png)## Data Sources
+<img alt="Total Spending by State" width="65%" 
+  src="https://github.com/ttran1216/Amazon_Survey_Analysis/blob/main/image/Total%20Spending%20by%20State.png">
+  <br>
+  <em>Figure: Total Spending by State.</em>
+</p>
+- California, Texas, and Florida exhibit the highest total spending on Amazon purchases, indicating a high concentration of frequent and high-value shoppers in these states.
+- The spending distribution suggests that population density and economic factors likely play a role in higher spending patterns.
+
+## Data Sources
 The dataset consists of the following files:
 - **amazon-purchases.csv** – Detailed purchase history of users, including order date, product category, price, and quantity.
 - **survey.csv** – Demographic and behavioral data collected from survey responses.
