@@ -61,6 +61,13 @@ With the growing e-commerce industry, understanding consumer behavior on Amazon 
 - **Conclusion**: These significant life events have a noticeable impact on shopping habits, leading to changes in how frequently individuals shop.
 
 ### 5. Willingness to Sell Personal Data by Education Level
+<p align="center">
+  <img alt="Willingness to Sell Personal Data" width="65%" 
+  src="https://github.com/ttran1216/Amazon_Survey_Analysis/blob/main/image/Willingness%20to%20Sell%20Personal%20Data.png">
+  <br>
+  <em>Figure: Willingness to Sell Personal Data by Education Level.</em>
+</p>
+
 - **Key Insight**: People with a Bachelor's degree are more likely to be willing to sell their personal data compared to those with lower education levels.
 - **Trend**: Those with a high school diploma or GED show a slightly lower willingness to sell their personal data, and the willingness is even lower among those with only some high school education or less.
 - **Conclusion**: Education level seems to play a role in whether or not individuals are willing to sell their personal data, with higher education leading to a greater likelihood of agreeing to such offers.
